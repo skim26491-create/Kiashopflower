@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kiashopflower/static/css/main.d10f25cb.css",
+    "main.js": "/Kiashopflower/static/js/main.e6e690bd.js",
+    "static/js/453.a2b5d510.chunk.js": "/Kiashopflower/static/js/453.a2b5d510.chunk.js",
+    "index.html": "/Kiashopflower/index.html",
+    "main.d10f25cb.css.map": "/Kiashopflower/static/css/main.d10f25cb.css.map",
+    "main.e6e690bd.js.map": "/Kiashopflower/static/js/main.e6e690bd.js.map",
+    "453.a2b5d510.chunk.js.map": "/Kiashopflower/static/js/453.a2b5d510.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d10f25cb.css",
+    "static/js/main.e6e690bd.js"
+  ]
+}
